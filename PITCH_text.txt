@@ -16,7 +16,7 @@ AÇÃO - "Experimente o DataWize e descubra como podemos ajudar a aumentar sua p
 
 
 ENG - US
-INTRODUCTION - "To employees who have to deal with manually correcting data within Jira or even requesters who find it complicated/confusing to enter some improves, how about if everything was entered in a simple and intuitive platform that helps users in creating an improve and administrators in correcting them? Here is the solution you have been waiting for! Welcome to our {pre jira}, welcome to DataWize!
+INTRODUCTION - "To employees who have to deal with manually correcting data within Jira or even requesters who find it complicated/confusing to enter some improves, how about if everything was entered in a simple and intuitive platform that helps users in creating an improve and administrators in correcting them? Here is the solution you have been waiting for! Welcome to our project, welcome to DataWize!
 
 PROBLEM - "We know that correcting and standardizing data can be a tedious, time-consuming, and not necessarily manual task.  However, the need to review the improvements entered by requesters to confirm that all fields are actually correct one by one is an obstacle."
 
