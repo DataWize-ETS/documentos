@@ -1,0 +1,26 @@
+Bom dia pessoal! Todos estão bem? 
+
+
+Primeiramente gostaria de começar agradecendo a presnça de todos vocês, (banca de avaliação, audiencia e todos os partiipantes) aqui na apresentação da 5° edição do Hackathon ETS.
+
+Hoje iremos aprensetar para vocês nossa projeto: "DataWize". 
+
+Antes de começar deixe-me apresnetar a equipe que desenvolveu este projeto: Ângelo e Byanka - trabalharam em conjunto na cosntrução do front-end da nossa aplicação, Diego e Gustavo - trabalharam como fullstack, Luís - responsavel pelo design e identidade visual e junto ao Raphael com a parte de Backend
+
+Gostariamos de compartilhar um vídeo com vocês para inserimos a idea do projeto DataWize
+
+
+
+Inglês - 
+
+Good morning everybody, are you all right? 
+
+
+First of all, I'd like to start by thanking all of you (judges, audience and all participants) for your presence here at the presentation of the 5th edition of the ETS Hackathon.
+
+Today we will present to you our project: "DataWize". 
+
+Before we start let me introduce the team that developed this project: Ângelo and Byanka - worked together on the front-end of our application, Diego and Gustavo - worked as fullstack, Luis - responsible for the design and visual identity and Raphael with the backend.
+
+We would like to share a video with you to insert the idea of the DataWize project
+  

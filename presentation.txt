@@ -1,32 +1,34 @@
 DIVISÃO DA APRESENTAÇÃO - 
 
-Introdução () - falar que vamos apresentar sobre o projeto desenvolvido durante o hackathon e falar sobre os tópicos que está no "index"
+Introdução (Beck) - falar que vamos apresentar sobre o projeto desenvolvido durante o hackathon e falar sobre os tópicos que está no "index"
+
+Team (Beck) - apresentação do time com suas respectivas fuñções
 
 
-The problem () - explicar o problema relatado pelo Micael (despadronização de dados na criação de um improvement), explicar o exemplo descrito no slide
+The problem (Angelo) - explicar o problema relatado pelo Micael (despadronização de dados na criação de um improvement), explicar o exemplo descrito no slide
 
-Frase (Beck) - ler a fraze do slide (steve jobs) para dar inicio a solução desenvolvida
-
-
-The solution: Standardize data (Beck) - explicar nossa ideia para solucionar esse problema, explicando o esquema preesente no slide.
+Frase (Gustavo) - ler a fraze do slide (steve jobs) para dar inicio a solução desenvolvida
 
 
-The solution (figma examples) ()- explicar o protótipo presente no slide
+The solution: Standardize data (Gustavo) - explicar nossa ideia para solucionar esse problema, explicando o esquema preesente no slide.
 
 
-The solutiol: tools -  explicar quais as ferramentas utilizamos para desenvolver nossa solução, explicar onde cada uma está sendo utilizada
+The solution (figma examples) (Gustavo)- explicar o protótipo presente no slide
 
 
-The market: impact () - explicar o tempo e dinheiro gasto atualmente para criar e dar manutenção para as improvemnets X tempo e dinheiro após a implementação da nossa solução
+The solutiol: tools (Byanka)-  explicar quais as ferramentas utilizamos para desenvolver nossa solução, explicar onde cada uma está sendo utilizada
 
 
-The market: potential () - explicar que nossa solução pode ser facilmente conectada a diversar plataformas de gerenciamento de projetos, conforme a demanda de projetos e equipes da bosch
+The market: impact (Byanka) - explicar o tempo e dinheiro gasto atualmente para criar e dar manutenção para as improvemnets X tempo e dinheiro após a implementação da nossa solução
 
 
-The Competition () - explicar como nosso produto é competivo e pode se tornar um produto bosch (ser vendido)
+The market: potential (Prates) - explicar que nossa solução pode ser facilmente conectada a diversar plataformas de gerenciamento de projetos, conforme a demanda de projetos e equipes da bosch
 
 
-The next-steps () - explicar os próximos passos que vemos para o futuro do nosso projeto que podem trazer melhorias para agregar ainda mais no gerenciamento de projetos e dar escalabilidade para ele 
+The Competition (Diego) - explicar como nosso produto é competivo e pode se tornar um produto bosch (ser vendido)
+
+
+The next-steps (Diego) - explicar os próximos passos que vemos para o futuro do nosso projeto que podem trazer melhorias para agregar ainda mais no gerenciamento de projetos e dar escalabilidade para ele 
 
 
 
